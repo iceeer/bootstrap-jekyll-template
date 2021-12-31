@@ -33,11 +33,11 @@
         {% endif %}
         {% endfor %}
       </ul>
-      <form method="get" action="http://www.baidu.com/search" target="_blank" class="form-inline my-2 my-lg-0">
+      <form target="_blank" class="form-inline my-2 my-lg-0">
         <label class="d-none">搜索</label>
         <input type="hidden" name="sitesearch" value="{{site.url}}{{site.baseurl}}" />
-        <input type="search" name="q" maxlength="255" placeholder="" aria-label="" class="form-control mr-sm-2"/>
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">搜索</button>
+        <input type="search" id="q" name="q" maxlength="255" placeholder="" aria-label="搜索" class="form-control mr-sm-2"/>
+        <button class="btn btn-outline-success my-2 my-sm-0" onclick="window.open('https://www.baidu.com/s?wd='+$('input#q').val())">搜索</button>
       </form>
     </div>
   </nav>
