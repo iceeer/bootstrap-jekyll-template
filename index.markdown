@@ -3,11 +3,19 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: portfolio
-jumbotron-heading: Rock Solid Web Services
-jumbotron-lead: SolidCore Services provides web solutions for small businesses looking to market their business online safely and securely.
+jumbotron-heading: 铸造生活
+jumbotron-lead: 本公司专业从事锌、铝合金的高压铸造生产，能为国内外客户提供从压铸模具开发制造、压铸生产、零部件机加工（深加工）以及表面处理涂装（抛丸、振动研磨、电镀、喷塑、喷漆等）等系统供货服务。
 jumbotron-bg-image: /images/mountains.jpg
 jumbotron:
   darkmode: false
 ---
 
-This is the home page.
+The company specializes in zinc, aluminum alloy die-casting production, for domestic and international customers from the development and fabrication of die-casting molds, die-casting production, machining parts and components (deep processing), as well as surface treatment coating (shot blasting, vibration polishing, electroplating , spray, spray painting, etc.).
+
+<p># 电话/Telephone： 86 021 57203188<br />
+# 传真/Fax： 86 021 57203188<br />
+# 移动电话/Mobile： 86 13301878330<br />
+# 电子邮件/Email： sxd@huiq.org<br />
+# 地址/Address：<br />
+&nbsp;&nbsp;中国上海市金山区吕巷镇龙跃村2059号<br />
+&nbsp;&nbsp;2059 Longyue Village, Lvxiang Town, Jinshan District, Shanghai, PRC</p>

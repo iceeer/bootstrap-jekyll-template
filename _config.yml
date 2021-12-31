@@ -12,9 +12,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-baseurl: /bootstrap-jekyll-template # the subpath of your site, e.g. /blog
-url: https://zachdyerdesign.com # the base hostname & protocol for your site, e.g. http://example.com 
-author: Zach Dyer Design
+baseurl:  # the subpath of your site, e.g. /blog
+url:  # the base hostname & protocol for your site, e.g. http://example.com 
+author: iceeer
 
 
 # Build settings

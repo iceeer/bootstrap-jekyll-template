@@ -1,8 +1,10 @@
 main: 
+  - permalink: /
+    title: 首页
   - permalink: /about/
-    title: About
+    title: 联系我们
   - permalink: "#"
-    title: Services
+    title: 产品中心
     dropdown: 
     - permalink: /portfolio/
-      title: Portfolio Publishing
+      title: 铝合金

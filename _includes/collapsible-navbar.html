@@ -3,11 +3,11 @@
         <div class="container">
         <div class="row">
             <div class="col-sm-8 col-md-7 py-4">
-            <h4 class="{% if include.darkmode %}text-white{% endif %}">About Us</h4>
+            <h4 class="{% if include.darkmode %}text-white{% endif %}">关于我们</h4>
             <p class="text-muted">{{ site.data.settings.description }}</p>
             </div>
             <div class="col-sm-4 offset-md-1 py-4">
-            <h4 class="{% if include.darkmode %}text-white{% endif %}">Main Menu</h4>
+            <h4 class="{% if include.darkmode %}text-white{% endif %}">主菜单</h4>
             <ul class="list-unstyled">
                 {% for link in site.data.menus.main %}
                 <li><a href="{{site.baseurl}}{{link.permalink}}" class="{% if include.darkmode %}text-white{% endif %}">{{link.title}}</a></li>

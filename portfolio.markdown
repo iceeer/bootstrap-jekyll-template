@@ -4,48 +4,20 @@
 
 layout: portfolio
 permalink: /portfolio/
-jumbotron-heading: We Publish Your Portfolio
-jumbotron-lead: Your customers will be able to view your recent projects from any smart phone device.
-jumbotron-buttons:
-  - title: View Portfolio
-    url: '#portfolio'
-    type: btn-primary
+jumbotron-heading: 锌、铝合金高压铸造生产企业
+jumbotron-lead: 本公司专业从事锌、铝合金的高压铸造生产，能为国内外客户提供从压铸模具开发制造、压铸生产、零部件机加工（深加工）以及表面处理涂装（抛丸、振动研磨、电镀、喷塑、喷漆等）等系统供货服务。
 projects: 
-  - thumbnail: /images/logo-design.jpg
-    title: Illustration Logo
-    description: A client with a construction company we designed a hand crafted and illustrated art style with a rustic feel.
+  - thumbnail: /images/mobile-website.jpg
+    title: 
+    description: 
     url: "#"
-    category: Logo Design
+    category: 
 
   - thumbnail: /images/mobile-website.jpg
-    title: Mobile Website
-    description: We provide a mobile website solution for small business owners who have customers who use their smart phone devices.
+    title: 
+    description: 
     url: "#"
-    category: Web Design
-
-  - thumbnail: /images/neatnik-cleaning-logo.png
-    title: Logo Design
-    description: A new local small business needed a branding solution for their marketing. We designed a logo for them with a custom cartoon mascot. 
-    url: "#"
-    category: Logo Design
-
-  - thumbnail: /images/brikmasonry-website.png
-    title: Construction Website
-    description: A website design for a construction company that specialized in exotic brick laying.
-    url: https://zachdyerdesign.com/brikmasonry
-    category: Web Design
-
-  - thumbnail: /images/missouritile.png
-    title: Tile Company Website
-    description: A website design for a local tile company.
-    url: https://zachdyerdesign.com/missouritile
-    category: Web Design
-
-  - thumbnail: /images/redbridgebluegrass-min.png
-    title: Redbridge Bluegrass Band
-    description: A website design for a bluegrass band in the Ozarks.
-    url: https://zachdyerdesign.com/redbridgebluegrass
-    category: Web Design
+    category:
 ---
 
-We publish your project portfolio online so you can relax and let us do the heavy lifting. Have a new portfolio piece you want to add to your portfolio page? It's as easy as sending an email to us and we will quickly publish your new portfolio project to your portfolio page.
+The company specializes in zinc, aluminum alloy die-casting production, for domestic and international customers from the development and fabrication of die-casting molds, die-casting production, machining parts and components (deep processing), as well as surface treatment coating (shot blasting, vibration polishing, electroplating , spray, spray painting, etc.).

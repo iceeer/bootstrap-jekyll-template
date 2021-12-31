@@ -1,11 +1,7 @@
-company: SolidCore Services
-email: zach.dyer@zachdyerdesign.com
+company: 上海慧秋实业有限公司 Shanghai Huiqiu Industry Co.,Ltd
+email: iceeer@huiq.org
 description: >- 
-  SolidCore Services provides solutions for small businesses in Missouri. 
-  We publish your content online so you can relax and let us do the heavy lifting.
-  Your customers will be able to view your recent projects from any smart phone device.
-  Your content will be easily searchable through Google and easy for your customers to find
-  information about your company online.
+  锌、铝合金高压铸造生产企业.
 icon: fas fa-mountain # company icon
 navbar: 
   include: navbar.html
